@@ -14,6 +14,6 @@ Use VBA scripting to analyze generated stock market data.
 
 * **The total stock volume of the stock.**
 
-**Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".**
+* **Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".**
 
 ![](https://github.com/ocarolinne/VBA-challenge/blob/main/Stocks_Q1.png)
